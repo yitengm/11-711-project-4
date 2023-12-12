@@ -13,8 +13,8 @@ We aim at using RoBERTa Model to classify emotions in Chinese Dataset (CPED).
 **go-emotion-data**: GoEmotions Dataset, used for Project 3.  
 
 ## Jupyter Notebook Description:
-- Model 1: **Advanced_Model_Chinese_Roberta.ipynb**, Advanced model (Chinese Roberta), including training and evaluation process
-- Model 2:
+- Model 1: **Advanced_Model_Chinese_Roberta.ipynb** Advanced model (Chinese RoBERTa), including training and evaluation process
+- Model 2: **Baseline_Model_Emotion_Detection.ipynb** Baseline model (RoBERTa model in assignment 3), fine tuned for translated Chinese dataset.
   
 **cn-visual.ipynb**: Visualize CPED dataset (after relabeling, using data in cn-data-revised folder)  
 **en-visual.ipynb**: Visualize GoEmotions dataset  
