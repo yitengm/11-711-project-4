@@ -3,6 +3,8 @@ This is 11-711 Adv NLP Project 4 Team 11
 
 We aim at using RoBERTa Model to classify emotions in Chinese Dataset (CPED).
 
+## Report
+11-711-project-4-report.pdf  
 
 ## Dataset Description:
 **cn-data-translated-combined**: Final Dataset that we used. Combine adjacent text with same speaker & same emotion label, in order to generate longer sentence with more context.  
